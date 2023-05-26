@@ -4,17 +4,13 @@ Small fish plugin that provides some handy shortcuts for git :D
 
 Nothing special.
 
-## Missing commands:
-
-- [x] Git restore (--staged)
-- [x] Git diff
-- [x] Git log
-
 ## Installation
 
-todo
+Using fisher: 
+` fisher install Drawserqzez/fidgit `
+
+Alternatively, just put all the functions in your functions directory.
 
 ## Usage
 
-todo
-
+todo :D
