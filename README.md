@@ -6,7 +6,7 @@ Nothing special.
 
 ## Missing commands:
 
-- [ ] Git restore (--staged)
+- [x] Git restore (--staged)
 - [x] Git diff
 - [x] Git log
 
