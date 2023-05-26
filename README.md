@@ -4,11 +4,17 @@ Small fish plugin that provides some handy shortcuts for git :D
 
 Nothing special.
 
-# Installation
+## Missing commands:
+
+- [ ] Git restore (--staged)
+- [ ] Git diff
+- [ ] Git log
+
+## Installation
 
 todo
 
-# Usage
+## Usage
 
 todo
 
