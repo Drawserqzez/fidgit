@@ -1,6 +1,8 @@
 function gc -d "Shortcut for git commit"
-    if test -z $argv
-        git commit -m $argv[1]
+    set -l commit_message $argv[1]
+
+    if test ! -z $commit_message
+        git commit -m $commit_message
     else
         git commit
     end
