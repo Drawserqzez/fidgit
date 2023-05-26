@@ -8,7 +8,7 @@ Nothing special.
 
 - [ ] Git restore (--staged)
 - [ ] Git diff
-- [ ] Git log
+- [x] Git log
 
 ## Installation
 
